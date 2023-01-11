@@ -1,2 +1,2 @@
-## Hi there,
-**I'm a game programming student at Futuregames with a special interest in Gameplay, UI and AI.**
+## Hi there, my name is Emilia,
+**I'm a dedicated Game Programmer student at FutureGames, who's passionate about creating immersive experiences through problem-solving and I have a special interest in gameplay, AI and UI programming.**
